@@ -1,0 +1,19 @@
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+
+article{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
+
+aside{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
+
+footer{
+  background-color: black;
+  background-size: 10px;
+}
